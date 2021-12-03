@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Product_Fragment_HW</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="proImg">proimg</string>
+    <string name="textview">textview</string>
+    <string name="continue_to_pay">continue_to_pay</string>
+    <string name="phoneimage">phoneImage</string>
+    <string name="productname1">productName1</string>
+    <string name="productname">productname</string>
+    <string name="price">Price</string>
+    <string name="buy">buy</string>
+    <string name="starimage">starimage</string>
+</resources>
